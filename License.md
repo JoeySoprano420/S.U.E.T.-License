@@ -71,7 +71,7 @@ This license may be dual-applied with permissive licenses (e.g., MIT, Apache 2.0
 Disputes will be resolved in accordance with the jurisdiction or arbitration process chosen by the Licensor, or through creator-designated sovereign forums.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-For full license details, visit: https://suet-license.org or contact the Licensor.
+For full license details, visit: https://github.com/JoeySoprano420/S.U.E.T.-License/edit/main/License.md or contact the Licensor.
 
 This license is open, sovereign, and future-respecting.
 
