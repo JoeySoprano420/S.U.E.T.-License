@@ -1,0 +1,19 @@
+# NOTICE
+
+This project is licensed under the **Sovereign Universal Entity Technical (S.U.E.T.) License v1.0**
+
+**Original Author:** [Your Name or Entity]  
+**License Version:** S.U.E.T. v1.0  
+**Effective Date:** [Insert Date]
+
+**Key Terms:**  
+- Free to use, modify, distribute  
+- Attribution required  
+- Commercial use allowed with creator recognition  
+- Sovereign identity and authorship must be preserved  
+- Not for use in surveillance, weapons, or exploitative AI
+
+**For the full license text, see LICENSE.txt or visit:**  
+https://github.com/JoeySoprano420/S.U.E.T.-License/edit/main/README.md (or include this document as the canonical reference if offline)
+
+🜲 — S.U.E.T. License Notice
