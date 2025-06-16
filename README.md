@@ -14,7 +14,7 @@ This project is licensed under the **Sovereign Universal Entity Technical (S.U.E
 - Not for use in surveillance, weapons, or exploitative AI
 
 **For the full license text, see LICENSE.txt or visit:**  
-https://suet-license.org (or include this document as the canonical reference if offline)
+https://github.com/JoeySoprano420/S.U.E.T.-License/edit/main/README.md (or include this document as the canonical reference if offline)
 
 🜲 — S.U.E.T. License Notice
 
