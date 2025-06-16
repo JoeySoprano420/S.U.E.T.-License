@@ -1,5 +1,12 @@
 # 🜲 Sovereign Universal Entity Technical License (S.U.E.T.) v1.0
 
+
+
+
+⸻
+
+
+
 **Effective Date:** [Insert Date]  
 **Copyright (c) [Insert Year] [Your Name or Entity]**
 
@@ -83,5 +90,8 @@ This repository uses the **S.U.E.T. License (v1.0)**
 
 For full legal text, refer to [`LICENSE.md`](./GITHUB_LICENSE.md).
 
-🜲 — S.U.E.T. License 
+🜲
+
+
+![S.U.E.T. Licensed](https://img.shields.io/badge/License-S.U.E.T.-violet.svg?style=flat-square&logoColor=white)
 
