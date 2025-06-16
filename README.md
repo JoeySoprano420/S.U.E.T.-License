@@ -85,3 +85,4 @@ For full legal text, refer to [`LICENSE.md`](./GITHUB_LICENSE.md).
 
 🜲 — S.U.E.T. License 
 
+<img src="suet-badge.svg" alt="S.U.E.T. License Badge" height="20">
