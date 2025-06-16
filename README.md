@@ -66,7 +66,6 @@ Resolved through creator-designated or sovereign-elected arbitration.
 
 
 
-
 # NOTICE
 
 This project is licensed under the **Sovereign Universal Entity Technical (S.U.E.T.) License v1.0**
