@@ -45,8 +45,6 @@ No royalties are required, but respect for authorship is contractually expected.
 
 The Work may NOT be used in:
 
-- Mass surveillance technologies
-- Weapons systems
 - Exploitative artificial intelligence/data mining
 - Projects that remove attribution or mask original authorship
 
